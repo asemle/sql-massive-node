@@ -1,0 +1,19 @@
+{
+  "name": "sql-massive-node",
+  "version": "1.0.0",
+  "description": "Today we're going to make our first full CRUD back-end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asemle/sql-massive-node.git"
+  },
+  "author": "andrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asemle/sql-massive-node/issues"
+  },
+  "homepage": "https://github.com/asemle/sql-massive-node#readme"
+}
